@@ -45,7 +45,7 @@ Wait about 20 seconds, then refresh the page. Follow the step-by-step instructio
   Add a link to get support, GitHub status page, code of conduct, license link.
 -->
 
----
+---Batman
 
 Get help: [Post in our discussion board](https://github.com/orgs/community/discussions/categories/github-education) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
